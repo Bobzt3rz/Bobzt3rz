@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bobzt3rz
-- 👀 I’m interested in Games, Programming and Finance
-- 🌱 I’m currently learning Python, SQL
+- 👀 I’m interested in web/cloud apps
+- 🌱 I’m currently learning Rust/AWS
 - 📫 How to reach me brunswick.99999@gmail.com
 
 <!---
